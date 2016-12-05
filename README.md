@@ -1,0 +1,1 @@
+Illustration of https://issues.scala-lang.org/browse/SI-10072
